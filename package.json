@@ -1,0 +1,26 @@
+{
+  "name": "group-by-types",
+  "version": "0.1.0",
+  "description": "Group files into folders by their extension",
+  "main": "index.js",
+  "repository": "UttamAaseri/group-by-types",
+  "author": {
+    "name": "Uttam Aaseri",
+    "email": "aaseri.uttam@gmail.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "files",
+    "group",
+    "extension",
+    "groupbytypes"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "execa": "^0.7.0",
+    "fs-extra": "^4.0.0"
+  }
+}
