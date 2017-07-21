@@ -1,6 +1,6 @@
 {
   "name": "group-by-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Group files into folders by their extension",
   "main": "index.js",
   "repository": "UttamAaseri/group-by-types",
